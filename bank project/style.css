@@ -1,0 +1,15 @@
+#name{
+    color: red;
+}
+#header{
+    display: flex;
+    gap: 10px;
+    text-align: center;
+}
+#bal{
+    display: flex;
+    gap: 10px;
+}
+#money{
+    color: red;
+}
